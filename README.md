@@ -1,8 +1,8 @@
 ## Practice pagination
 
-Create a basic pagination filtered by number of items.
+A PHP based pagination feature filtered by number of product items. Need to connect to database before utillizing it. 
 
-![pagination](https://cloud.githubusercontent.com/assets/7349166/4369046/c2c95fa4-42f6-11e4-9a1e-9c16fbf4bae0.gif)
+
 
 
  
