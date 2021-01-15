@@ -1,6 +1,6 @@
-## item per page 
+#### Pagination ####
 
-A PHP user defined pagination feature, filtered by number of product items. Need to connect to database before utillizing it. 
+A PHP user defined pagination feature, filtered by number of product items. 
 
 
 
