@@ -52,6 +52,6 @@ if ($pages >= 1) {
 ; // end if
 ?>
 <br/><br/>
-<footer>Copyright &copy 2014 Pei-Han Chao. All Rights Reserved.</footer>
+<footer>Copyright &copy 2014. All Rights Reserved.</footer>
 </body>
 </html>

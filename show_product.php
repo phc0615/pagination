@@ -5,11 +5,12 @@
     <title>Pagination</title>
 </head>
 <body>
-    <h3>Pagination - Show Products</h3>
+    <h1>Pagination - Show Products</h1>
     <div class="show_products">Show 
         <a href="?limit=3">3</a> 
         <a href="?limit=6">6</a> 
-        <a href="?limit=10">10</a> items</div>
+        <a href="?limit=10">9</a> 
+        items</div>
         <br /><?php
         include_once('connect.php');
         if(isset($_GET['limit'])) {
@@ -56,6 +57,6 @@ if(!($page >= $pages)) {
 } // end if
 ?>
 <br/><br/>
-<footer>Copyright &copy 2014 Pei-Han Chao. All Rights Reserved.</footer>
+<footer>Copyright &copy 2014. All Rights Reserved.</footer>
 </body>
 </html>
