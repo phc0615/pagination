@@ -1,6 +1,6 @@
 ### Pagination ###
 
-User defined pagination feature written in PHP. 
+Pagination feature written in PHP. 
 
 
 
